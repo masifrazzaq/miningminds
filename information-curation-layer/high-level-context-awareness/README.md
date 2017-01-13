@@ -155,3 +155,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 <br>
+
+
+Get to know more about this component in [Open Source Technical Detail](http://www.miningminds.re.kr/wp-content/uploads/2017/01/MM-V2.5-OpenSource-V3.0.pdf)
